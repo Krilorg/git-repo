@@ -1,2 +1,3 @@
 print("hello world!");
-print("жопа миру")
+print("жопа миру)
+print break
