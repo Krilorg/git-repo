@@ -1,2 +1,6 @@
 print("hello world!");
 print("Hi")
+=======
+print("жопа миру)
+print break
+>>>>>>> master
