@@ -1,6 +1,5 @@
 print("hello world!");
-print("Hi")
-=======
-print("жопа миру)
-print break
->>>>>>> master
+print("Hi");
+print("жопа миру);
+print break;
+
