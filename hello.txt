@@ -1,5 +1,8 @@
 print("hello world!");
 print("Hi");
+print("hello my dear friend");
+print("Glad to see you");
+print break;
 print("жопа миру);
 print break;
 
