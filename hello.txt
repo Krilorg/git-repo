@@ -1,6 +1,4 @@
 print("hello world!");
 print("Hi")
-=======
-print("жопа миру)
+print("hello my dear friend")
 print break
->>>>>>> master
